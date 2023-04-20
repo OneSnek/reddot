@@ -11,7 +11,8 @@ import lombok.ToString;
 @ToString
 public class RegistrationRequest {
     //things we want to capture when client sends request
-    private final String pseudo;
+    private final String username;
     private final String password;
-    private final String email;
+
+    //private final String email;
 }

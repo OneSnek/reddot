@@ -15,7 +15,7 @@
 	<name>reddot</name>
 	<description>reddot project for Elysium</description>
 	<properties>
-		<!--as per requirenment was java 11 -->
+		<!--as per requirement was java 11 -->
 		<java.version>11</java.version>
 	</properties>
 	<dependencies>
