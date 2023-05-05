@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 
 @SpringBootApplication
-@EnableJpaRepositories(basePackages = "app.reddot.repositories")
+@EnableJpaRepositories(basePackages = "app.reddot.repository")
 public class ReddotApplication {
 
     public static void main(String[] args) {
